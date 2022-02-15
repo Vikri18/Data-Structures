@@ -1,2 +1,2 @@
 # Data-Structures
-belajar data struktur menggunakan bahasa python
+belajar data struktur
